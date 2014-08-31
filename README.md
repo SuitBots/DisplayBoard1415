@@ -2,8 +2,8 @@
 
 ## Components
 
-* Several slide/video decks, one for each of
+* Several photo/video decks, one for each of
   * Team
-  * Connect
-  * Engineering
-* A match stats board (QP, RP, OPR chart)
+  * Outreach
+  * Design
+* A tournament stats board (QP, RP, OPR chart)
